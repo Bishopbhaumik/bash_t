@@ -11,7 +11,7 @@
 # conversion and if the extension is .morse then morse code to text conversion is done
 
 
-# TEXT TO MORSE ALGORITHM
+#@ TEXT TO MORSE ALGORITHM
 
 # If the extension of the entered file is .txt then we will get right into conversion 
 # to the morse code for the same. We will read each character from the file one by one.
