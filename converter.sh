@@ -8,7 +8,7 @@
 # According to our given problem statement we have initialised the morse and character
 # values of each. Then we are taking a command line input and we are extracting the 
 # extension of the file. If the extention is .txt then we perform the text to morse 
-# conversion and if the extension is .morse then morse code to text conversion is done.
+# conversion and if the extension is .morse then morse code to text conversion is done
 
 
 # TEXT TO MORSE ALGORITHM
